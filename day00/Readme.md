@@ -1,0 +1,1 @@
+Today Session 1 is just basic information about what is this tarining and what will be going to cover in these following sessions and how attendance system works and all other useful information about this python training.
